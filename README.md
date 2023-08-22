@@ -1,3 +1,6 @@
+## Random avatar
+Random avatar is a plugin that can randomly fill a rectangle or circle with a circular avatar.
+
 ## Develop
 Below are the steps to get your plugin running. You can also find instructions at:
 
