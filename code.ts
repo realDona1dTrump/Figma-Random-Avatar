@@ -1,4 +1,5 @@
 const selection = figma.currentPage.selection;
+export {};
 
 if (selection.length > 0) {
   // 遍历选中的图层
