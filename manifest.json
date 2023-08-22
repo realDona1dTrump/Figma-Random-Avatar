@@ -1,0 +1,16 @@
+{
+  "name": "Random Avatar",
+  "id": "1262337856794126994",
+  "api": "1.0.0",
+  "main": "code.js",
+  "capabilities": [],
+  "enableProposedApi": false,
+  "editorType": [
+    "figma"
+  ],
+  "networkAccess": {
+    "allowedDomains": [
+      "https://api.multiavatar.com"
+    ]
+  }
+}
