@@ -29,7 +29,7 @@ if (selection.length > 0) {
     } 
 
     else {
-      figma.notify('You have not selected any fillable layers.', { timeout: 2000 });
+      figma.notify('You have not selected any fillable layers.', { timeout: 3000 });
       figma.closePlugin();
     }
 
@@ -37,6 +37,6 @@ if (selection.length > 0) {
 } 
 
 else {
-  figma.notify('You have not selected any fillable layers.', { timeout: 2000 });
+  figma.notify('You have not selected any fillable layers.', { timeout: 3000 });
   figma.closePlugin();
 }
